@@ -1,0 +1,23 @@
+{
+    "name": "Siap Ngoding",
+    "short_name": "Siapngoding.my.id",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCuqepra5PX9k7YGHcWdNuRrRT3sggULgfNUuUCTWfZrdSw0Rws6SWJhaStnJWb3fxhqbZeFcudlnQGgvYa-SmXG3zIujSpfDdFZ1mS8zjEATSdx1By5mGzM24MfajCwpQM7SMKNydKny0zm_CCYRmE__X1GBkiAPPkhsDF60-jhu-mvueKPSCadpw/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33LtKeNfibNjo38Sovw-WgZI1zq6kOaB69qQq2lw7d34qQJjyK3bWlaair4GPk8FJzkgsYI3VOLXp6V522JMv_B-F0IW6giWJniPmbFxCD2RCzQmzVLuVo6LqHgUJVh-9OQ7zDOBOVBgKajqwgM2YdJLiHDhiK3CcM9DHZNF8vmMNRlN--NKxZuTm/s320/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.siapngoding.my.id"
+}
